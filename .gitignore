@@ -1,0 +1,13 @@
+# 编辑器/系统
+.DS_Store
+Thumbs.db
+*.swp
+
+# 运行产物
+node_modules/
+.tmp/
+*.log
+
+# 本地密钥（本工具包自身绝不提交任何令牌）
+.env
+.env.*
